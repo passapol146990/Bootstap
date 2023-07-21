@@ -1,0 +1,6 @@
+<script src="https://kit.fontawesome.com/df51206e0e.js" crossorigin="anonymous"></script>
+
+วิธีติดตั้ง
+https://fontawesome.com/docs/web/style/size
+วิธีหาไอคอน
+https://fontawesome.com/icons/user-tag?s=solid
